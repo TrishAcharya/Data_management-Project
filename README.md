@@ -1,5 +1,7 @@
 ### Data_management-Project
 
+https://github.com/TrishAcharya/Data_management-Project/blob/main/Web_scrapping_Project.ipynb
+
 1) Project Overview:
 
   This project involves web scraping data from JustWatch, a platform that provides information on where to stream movies and TV shows. The objective is to collect detailed information about available movies and     TV shows, including titles, genres, release years, ratings, and streaming platforms. The scraped data will be used for analysis, reporting, or integration into a larger data management system.
