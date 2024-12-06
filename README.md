@@ -2,42 +2,42 @@
 
 1) Project Overview:
 
-This project involves web scraping data from JustWatch, a platform that provides information on where to stream movies and TV shows. The objective is to collect detailed information about available movies and TV shows, including titles, genres, release years, ratings, and streaming platforms. The scraped data will be used for analysis, reporting, or integration into a larger data management system.
+  This project involves web scraping data from JustWatch, a platform that provides information on where to stream movies and TV shows. The objective is to collect detailed information about available movies and     TV shows, including titles, genres, release years, ratings, and streaming platforms. The scraped data will be used for analysis, reporting, or integration into a larger data management system.
 
 2) Features:
 
-Scraping of movies and TV shows data.
+  Scraping of movies and TV shows data.
 
-Extraction of key information including:
+  Extraction of key information including:
 
-Title
+  Title
 
-Genre
+  Genre
 
-Release year
+  Release year
 
-IMDB rating
+  IMDB rating
 
-Available streaming platforms (e.g., Netflix, Amazon Prime, etc.)
+  Available streaming platforms (e.g., Netflix, Amazon Prime, etc.)
 
-Data cleaning to ensure quality and consistency.
+  Data cleaning to ensure quality and consistency.
 
-Storage of data in a structured format (e.g., CSV, JSON, or database).
+  Storage of data in a structured format (e.g., CSV, JSON, or database).
 
 
 3) Required Python Libraries:
 
-requests for HTTP requests.
+  requests for HTTP requests.
 
-BeautifulSoup from bs4 for parsing HTML.
+  BeautifulSoup from bs4 for parsing HTML.
 
-pandas for data manipulation.
+  pandas for data manipulation.
 
-lxml or html.parser for HTML parsing.
+  lxml or html.parser for HTML parsing.
 
 
 4) Conclusion:
 
-This web scraping project provides a valuable tool for collecting and organizing data from JustWatch, allowing for easy access to movie and TV show information, including streaming availability. By automating the extraction process, this project enhances data management capabilities, making it easier to analyze trends, compare platforms, and build personalized recommendations.
+  This web scraping project provides a valuable tool for collecting and organizing data from JustWatch, allowing for easy access to movie and TV show information, including streaming availability. By automating     the extraction process, this project enhances data management capabilities, making it easier to analyze trends, compare platforms, and build personalized recommendations.
 
-However, it is crucial to respect web scraping best practices, including adherence to legal guidelines and ethical scraping techniques to avoid overloading the server. With proper implementation, this tool can significantly enhance decision-making in the media and entertainment domain.
+  However, it is crucial to respect web scraping best practices, including adherence to legal guidelines and ethical scraping techniques to avoid overloading the server. With proper implementation, this tool can    significantly enhance decision-making in the media and entertainment domain.
