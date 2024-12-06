@@ -1,10 +1,11 @@
-# Data_management-Project
+### Data_management-Project
 
-Project Overview
+#Project Overview
 
 This project involves web scraping data from JustWatch, a platform that provides information on where to stream movies and TV shows. The objective is to collect detailed information about available movies and TV shows, including titles, genres, release years, ratings, and streaming platforms. The scraped data will be used for analysis, reporting, or integration into a larger data management system.
 
-Features:
+#Features:
+
 Scraping of movies and TV shows data.
 
 Extraction of key information including:
@@ -23,7 +24,8 @@ Data cleaning to ensure quality and consistency.
 
 Storage of data in a structured format (e.g., CSV, JSON, or database).
 
-Python Libraries:
+
+#Python Libraries:
 
 requests for HTTP requests.
 
@@ -32,6 +34,7 @@ BeautifulSoup from bs4 for parsing HTML.
 pandas for data manipulation.
 
 lxml or html.parser for HTML parsing.
+
 
 Conclusion:
 
